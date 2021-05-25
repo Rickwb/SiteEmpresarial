@@ -4,8 +4,9 @@
 <h3>Tabela de Conteúdos</h3>
 
 <!--ts-->
-* [Sobre](#Sobre)
+* [Descrição](#Descrição)
 * [Tabela de Conteúdos](#Tabela_de_conteúdos)
+* [Status do Projeto](#Status_do_Projeto)
 * [Instalação](#Instalação)
 * [Como usar](#Como_usar)
   * [Pre requisitos](#Pre_requisitos)
@@ -13,7 +14,11 @@
   * [Remote files](#Remote_files)
 * [Tests](#Tests)
 * [Valores](#Valores)
+* [Tecnologias](#Tecnologias)
 * [Autor](#Autor)   
 <!--te-->
+<h3>Status do Projeto</h3>
+<p> Em construção... 🚧 </p> 
+
 
 
